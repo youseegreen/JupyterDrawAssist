@@ -46,4 +46,5 @@ debug.plot(graph, name)
 
 ## 使用例
 example.ipynbを実行する
+
 ![res](https://user-images.githubusercontent.com/39123031/76051284-a591d400-5fad-11ea-948a-271a0501ce55.PNG)
